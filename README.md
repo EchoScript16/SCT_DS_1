@@ -9,7 +9,6 @@ This project visualizes India's population by age group using:
 - Python
 - Matplotlib
 - Pandas
-- Excel (output)
 
 ## 📂 Files Included
 - `india_population_visualization.py`: main script
